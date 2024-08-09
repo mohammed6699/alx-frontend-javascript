@@ -6,3 +6,5 @@ function taskNext() {
 	let Second="Second Task";
 	return Second;
 }
+taskFirst();
+taskNext();
